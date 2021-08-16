@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAIA,KACE,eACF,CAEA,qBAEE,gBACF","file":"main.12882638.chunk.css","sourcesContent":["/* 这个文件主要用来写全局样式 */\n\n/* 使用rem，1rem就是1font-size。浏览器默认的font-size为16px，则1rem为10px */\n\nhtml {\n  font-size: 62.5%;\n}\n\nhtml body #root .APP {\n  /* vh：viewpoint。视口高度 */\n  min-height: 100vh;\n}\n"]}
